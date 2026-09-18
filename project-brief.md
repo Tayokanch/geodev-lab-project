@@ -35,3 +35,4 @@ Flooding is a recurring problem in Eti-Osa. An initial exposure map could help e
 ## What I would build
 
 I would build a clear flood-exposure screening map of Eti-Osa showing settlement areas that meet both conditions: land below 5 metres elevation and location within 500 metres of the coast, lagoon or a mapped waterway.
+
