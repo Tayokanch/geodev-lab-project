@@ -162,7 +162,7 @@ The datasets provide a suitable foundation for a preliminary flood-exposure scre
 
 The OpenStreetMap natural-water dataset is incomplete in some areas and may therefore underestimate proximity to relevant water bodies. The SRTM DEM provides approximately 30 m elevation data and is suitable for broad screening, but it does not represent recent terrain changes and is not precise enough for engineering-level flood modelling.
 
-The final Month 1 results should therefore be interpreted as a **screening of potential exposure** rather than a prediction of where flooding will definitely occur.
+The final Month 1 results would therefore be interpreted as a **screening of potential exposure** rather than a prediction of where flooding will definitely occur.
 
 
 ## CRS and Preparation
