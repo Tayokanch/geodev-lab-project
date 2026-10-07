@@ -5,11 +5,11 @@
 
 ### 🔗 Purpose
 
-    The platform will allow users to select a settlement, view its flood-exposure information and compare dated flood observations. Users can also explore how possible road closures could make journeys to essential services longer or leave a settlement without a usable route. Each result will include its source, date and limitations.
+  The platform will allow users to select a settlement, view its flood-exposure information and compare dated flood observations. Users can also explore how possible road closures could make journeys to essential services longer or leave a settlement without a usable route. Each result will include its source, date and limitations.
 
 
 ### 🔗  Project Question
-    Which settlement areas in Eti-Osa may be exposed to flooding, what dated flood evidence is available, and how could road disruption affect access to essential services?
+  Which settlement areas in Eti-Osa may be exposed to flooding, what dated flood evidence is available, and how could road disruption affect access to essential services?
 
 
 #### `NOTE:` This repo documents my 12months GeoDevLabAfrica Cohort-One Project workflow. See full [project-brief.md](/project-brief.md) here 
