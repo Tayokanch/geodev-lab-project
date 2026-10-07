@@ -2,7 +2,7 @@
 
 ## Project
 
-**Flood Exposure Screening in Eti-Osa LGA, Lagos**
+**Lagos Flood Resilience and Access to Essential Services**
 
 
 ## 1. Eti-Osa Boundary Layer
