@@ -40,7 +40,7 @@ The result was checked by:
 Potential exposure was not limited to the coastline. some inland settlement areas also met both screening criteria because they are low-lying and close to mapped waterways or water bodies.
 
 ## Datasets Used
-check [data-note.md](/doc/02-data-note.md)
+check [`data-note.md`](/doc/02-data-note.md)
 
 ## Data Still Needed
 Further analysis would benefit from:

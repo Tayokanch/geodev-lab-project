@@ -97,3 +97,30 @@ The outcome was an organised and structured project folder and dataset with a cl
 A consistent set of **clipped and projected datasets** was produced, creating datasets ready and appropriate for the analysis 
 
 **Task documentation:** [`data-preparation.md`](/doc/03-data-preparation.md)
+
+## Week 4 — Spatial Operations and Analysis
+
+### Major Tasks
+
+- Used the **Raster Calculator** to identify land at or below **5 m elevation**.
+- Created **500-metre buffers** around selected water features, including the coastline, water bodies, rivers, streams and canals.
+- Merged and dissolved the buffer outputs into a single **water-proximity zone**.
+- Used **intersection** to combine low elevation and water proximity into a **potential flood-exposure zone**.
+- Used **clip** to extract settlement extents falling within the potential flood-exposure zone.
+- Calculated settlement areas and checked the spatial outputs.
+
+### Result
+
+The spatial analysis produced:
+
+1. A **low-elevation zone** representing land at **≤ 5 m elevation**.
+2. A combined **500 m water-proximity zone**.
+3. A **potential flood-exposure zone** where both screening conditions overlap.
+4. Mapped settlement extents located within the potential flood-exposure zone.
+
+Out of **5,895 mapped settlement extents**, **2,264 (38.4%)** have some area within the potential flood-exposure zone.
+
+These outputs provide the foundation for identifying low-lying settlements near major water features and for further analysis of flood exposure and its potential effects on access to essential services in Eti-Osa LGA.
+
+
+**Task documentation:** [`month-1-summary.md`](month-1-summary.md)
