@@ -124,3 +124,23 @@ These outputs provide the foundation for identifying low-lying settlements near 
 
 
 **Task documentation:** [`month-1-summary.md`](month-1-summary.md)
+
+
+## Month 2: Development Environment and Early Python
+
+## week 5: Set up Python, Vs Code and terminal. 
+
+### Tasks Completed
+
+- Installed `python` and verified the version & installation on the terminal
+- Installed `VScode` and added a `Python Extension`
+- Created a `dev` directory workspace
+- Created and executed a basic hello.py Python program.
+
+## Result
+
+Established a Python Development Environment
+
+## Task file
+
+[hello.py](/hello.py)
