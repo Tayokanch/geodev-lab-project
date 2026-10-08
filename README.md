@@ -155,3 +155,7 @@ Established a Python Development Environment
 - Installed `pandas` using `uv add pandas`
 - Created a script named `check.py`, imported `pandas`, and added a print statement to display the version of the `pandas` installed
 - Executed `check.py` within the project's virtual environment using uv run `check.py` to verify that pandas was installed correctly.
+
+## Task script
+
+[check.py](/check.py)
