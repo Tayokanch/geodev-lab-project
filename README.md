@@ -144,3 +144,14 @@ Established a Python Development Environment
 ## Task file
 
 [hello.py](/hello.py)
+
+## Week 6: Python Virtual Environment and Project setup with UV
+
+### Tasks Completed
+
+- Installed `uv` a python virtual environment package
+- verified the installation by running the command `uv --version`
+- Initialized Python Project in the working directory using `uv init`
+- Installed `pandas` using `uv add pandas`
+- Created a script named `check.py`, imported `pandas`, and added a print statement to display the version of the `pandas` installed
+- Executed `check.py` within the project's virtual environment using uv run `check.py` to verify that pandas was installed correctly.
