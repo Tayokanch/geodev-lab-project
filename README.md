@@ -12,7 +12,7 @@
   Which settlement areas in Eti-Osa may be exposed to flooding, what dated flood evidence is available, and how could road disruption affect access to essential services?
 
 
-#### `NOTE:` This repo documents my 12months GeoDevLabAfrica Cohort-One Project workflow. See full [project-brief.md](/project-brief.md) here 
+#### `NOTE:` This repo documents my 12months GeoDevLabAfrica Cohort-One Project workflow. See full [project-brief.md](doc/01-project-brief.md) here 
 
 ---
 # Project Progress
