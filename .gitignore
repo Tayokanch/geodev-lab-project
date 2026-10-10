@@ -1,3 +1,4 @@
 # Python virtual environment
 .venv/
-/src
+src/
+/src/
