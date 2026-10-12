@@ -159,3 +159,15 @@ Established a Python Development Environment
 ## Task script
 
 [check.py](/check.py)
+
+
+## Week 7: Python Fundamentals – Six Core Concepts (Variables, Data Types, Lists, Loops, Conditionals, and Functions)
+
+### Tasks Completed
+- Created a `csv` named [`ward.csv`](ward.csv) containing **areas** and **wards**
+- Created a script file named [`analyse.py`](analyse.py)
+- Wrote a script to *Read* the csv file, converted each areas and classified each ward
+
+## Task script
+
+[`analyse.py`](analyse.py)
