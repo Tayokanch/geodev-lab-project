@@ -177,9 +177,9 @@ Established a Python Development Environment
 
 ### What was covered
 
-- Different btw `print` ane `return`
+- Difference btw `print` ane `return`
 - Using `csv` module to read a `cvs file` and `csv.DictRead()` to return a `cvs file`  as a python dictionary
-- Reading Json and how to use `json` module to load `json file` to a python dictionary
+- Reading Json and how to use `json` module to load `json file` to return a python dictionary
 - Debugging using `print`
 - Handling Messy and Missing Data
 
