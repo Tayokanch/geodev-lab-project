@@ -171,3 +171,24 @@ Established a Python Development Environment
 ## Task script
 
 [`analyse.py`](analyse.py)
+
+
+## Week 8: Python, Files and data
+
+### What was covered
+
+- Different btw `print` ane `return`
+- Using `csv` module to read a `cvs file` and `csv.DictRead()` to return a `cvs file`  as a python dictionary
+- Reading Json and how to use `json` module to load `json file` to a python dictionary
+- Debugging using `print`
+- Handling Messy and Missing Data
+
+
+## Task Completed
+- Created script filename ['inspect_data.py'](inspect_data.py)
+- Wrote a function named inspect_column() that takes 2 argument arg1: filename and arg2:column
+- use  csv.DictReader() to read the `csv filename` and hand it back as a dictionary
+- The function returns the smallest, largest, and count in the list of the dictionaries
+- Called the functions with 2 seperate parameters
+  - inspect_column('my-project/data/processed/flood_exposed_settlement.csv', 'exposed_settlement_area_km2')
+  - inspect_column('my-project/data/processed/flood_exposed_settlement.csv', 'total_settlement_area_km2')
