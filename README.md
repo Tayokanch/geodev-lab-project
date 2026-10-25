@@ -190,5 +190,5 @@ Established a Python Development Environment
 - use  csv.DictReader() to read the `csv filename` and hand it back as a dictionary
 - The function returns the smallest, largest, and count in the list of the dictionaries
 - Called the functions with 2 seperate parameters
-  - inspect_column('my-project/data/processed/flood_exposed_settlement.csv', 'exposed_settlement_area_km2')
-  - inspect_column('my-project/data/processed/flood_exposed_settlement.csv', 'total_settlement_area_km2')
+  - inspect_column([my-project/data/processed/flood_exposed_settlement.csv]('my-project/data/processed/flood_exposed_settlement.csv'), 'exposed_settlement_area_km2')
+  - inspect_column([my-project/data/processed/flood_exposed_settlement.csv]('my-project/data/processed/flood_exposed_settlement.csv)', 'total_settlement_area_km2')
