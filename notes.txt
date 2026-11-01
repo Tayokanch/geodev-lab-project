@@ -1,0 +1,2 @@
+Exposed Settlement Area: {'Count of Value': 3865, 'Smallest Value': 3.06509089874396e-10, 'Highest Value': 0.215757918879876, 'Average': 0.010569219531510257}
+Total Settlement Area: {'Count of Value': 3865, 'Smallest Value': 0.0001719848378303, 'Highest Value': 0.908564247938914, 'Average': 0.04358890076966073}

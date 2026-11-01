@@ -192,3 +192,14 @@ Established a Python Development Environment
 - Called the functions with 2 seperate parameters
   - inspect_column([my-project/data/processed/flood_exposed_settlement.csv]('my-project/data/processed/flood_exposed_settlement.csv'), 'exposed_settlement_area_km2')
   - inspect_column([my-project/data/processed/flood_exposed_settlement.csv]('my-project/data/processed/flood_exposed_settlement.csv)', 'total_settlement_area_km2')
+
+## Week 9 Code consolidation and refacturing
+
+## Task completed
+
+- Refactored my previous Python scripts (inspect_data.py)[inspect_data.py] into reusable functions in (summary.py)[`summary.py`] to calculate the count, smallest, largest and average values from my flood exposure dataset. Ran the script using `uv run summary.py` and displayed the results for each selected column in the terminal.
+
+
+### Month 2 reflection
+
+This month, I gained a better understanding of Python functions, how functions can be reused to perform operations on different datasets.  Working with csv.DictReader() also helped me understand how to read CSV files and access individual columns for analysis.
