@@ -2,3 +2,5 @@
 .venv/
 src/
 /src/
+
+/my-project/data/
