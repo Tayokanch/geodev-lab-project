@@ -9,9 +9,9 @@ __pychache__/
 ## Rasters and archieve are large: keep them on your laptop
 ## and describe them in the data-notes
 
-*.tif
-*.TIF
-*.zip
+data/raw/*.tif
+data/raw/*.TIF
+data/raw/*.zip
 
 .DS_Store
 Thumbs.db
