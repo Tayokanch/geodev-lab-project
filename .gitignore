@@ -9,8 +9,6 @@ data/raw/*.tif
 data/raw/*.TIF
 data/raw/*.zip
 
-/my-project/
-
 ## Operating system files
 .DS_Store
 Thumbs.db
