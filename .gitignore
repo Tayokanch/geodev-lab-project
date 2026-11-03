@@ -8,6 +8,7 @@ __pycache__/
 /data/raw/*.tif
 /data/raw/*.TIF
 /data/raw/*.zip
+/data/raw/
 
 ## Operating system files
 .DS_Store
