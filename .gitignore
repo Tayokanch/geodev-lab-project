@@ -5,9 +5,9 @@ __pycache__/
 
 ## Rasters and archives are large: keep them locally
 ## and describe them in the data-notes
-data/raw/*.tif
-data/raw/*.TIF
-data/raw/*.zip
+/data/raw/*.tif
+/data/raw/*.TIF
+/data/raw/*.zip
 
 ## Operating system files
 .DS_Store
