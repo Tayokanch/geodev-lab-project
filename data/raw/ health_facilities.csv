@@ -9,10 +9,9 @@ __pycache__/
 ## Rasters and archieve are large: keep them on your laptop
 ## and describe them in the data-notes
 
-data/raw/*.tif
-data/raw/*.TIF
-data/raw/*.zip
-
+/data/raw/*.tif
+/data/raw/*.TIF
+/data/raw/*.zip
 .DS_Store
 Thumbs.db
 .vscode/
