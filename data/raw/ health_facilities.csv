@@ -17,4 +17,4 @@ data/raw/*.zip
 Thumbs.db
 .vscode/
 
-/my-project/
+/my-project
